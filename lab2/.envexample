@@ -1,0 +1,2 @@
+SMTP_EMAIL=...@gmail.com
+SMTP_PASSWORD=...  # Your 16-char App Password
