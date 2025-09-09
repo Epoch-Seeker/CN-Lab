@@ -10,3 +10,6 @@
 2025-09-09 11:55:35,572 - INFO - Connecting to SMTP server: smtp.gmail.com:587
 2025-09-09 11:55:36,966 - INFO - Logging in to SMTP server...
 2025-09-09 11:55:39,617 - INFO - Email successfully sent to sunnykumar173205@gmail.com
+2025-09-09 12:21:18,437 - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2025-09-09 12:21:19,488 - INFO - Logging in to SMTP server...
+2025-09-09 12:21:21,885 - INFO - Email successfully sent to sunnykumar173205@gmail.com
